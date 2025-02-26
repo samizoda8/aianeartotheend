@@ -75,8 +75,8 @@
                 top: 11%;
                 z-index: -1;
                 @media #{$lg} {
-                    left: 25%;
-                    top: 9%;
+                    left: 7%;
+                    top: 13%;
                 }
                 @media #{$xs} {
                     left: 16%;
@@ -93,7 +93,8 @@
                 right: 38%;
                 top: 10%;
                 @media #{$lg} {
-                    right: 18%;
+                    right: 43%;
+                    top: 12%;
                 }
                 & .svg-icon {
                     width: 100%;
